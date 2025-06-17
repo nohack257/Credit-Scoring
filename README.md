@@ -1,7 +1,4 @@
-## Live Access:
-https://credit-scoring-imam.herokuapp.com/
-
-## API Endpoint
+API Endpoint
 - **POST** /predict-api
 - Example: https://credit-scoring-imam.herokuapp.com/predict-api
 - Description: Predict whether the client will default or not after their loan application.
