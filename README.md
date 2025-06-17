@@ -1,10 +1,3 @@
-API Endpoint
-- **POST** /predict-api
-- Example: https://credit-scoring-imam.herokuapp.com/predict-api
-- Description: Predict whether the client will default or not after their loan application.
-
-### Request Headers:
-- **Content-Type**: application/json
 
 ### Body Params:
 Field | Description | Value | Required
